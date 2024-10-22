@@ -50,7 +50,7 @@ class MyHomePage extends StatelessWidget {
                   ],
                 ),
                 const SizedBox(
-                  height: 100,
+                  height: 150,
                 ),
                 const Center(
                   child: Text(
